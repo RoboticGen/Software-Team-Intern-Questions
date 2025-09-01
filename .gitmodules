@@ -1,0 +1,9 @@
+[submodule "Task-01/Fullstack-Intern-Task"]
+	path = Task-01/Fullstack-Intern-Task
+	url = https://github.com/RoboticGen/Fullstack-Intern-Task
+[submodule "Task-02/Intern-Software-Developer-Task"]
+	path = Task-02/Intern-Software-Developer-Task
+	url = https://github.com/RoboticGen/Intern-Software-Developer-Task
+[submodule "Task-03/obo-editor"]
+	path = Task-03/obo-editor
+	url = https://github.com/RoboticGen/obo-editor
